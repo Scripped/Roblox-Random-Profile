@@ -22,3 +22,13 @@ ROBLOX: https://www.roblox.com/users/1957038621/profile
 ----------------
 
 if you could give me some tips on how to improve that would be great.
+
+
+# Downloading
+
+Download both files and add them both to new folder.
+Then, extract the files in this new folder.
+
+# Using
+
+Open the .exe file, and you can start.

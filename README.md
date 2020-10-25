@@ -26,8 +26,7 @@ if you could give me some tips on how to improve that would be great.
 
 # Downloading
 
-Download both files and add them both to new folder.
-Then, extract the files in this new folder.
+Download the newest release. Then, click on the application (the one with the electron logo)
 
 # Using
 
